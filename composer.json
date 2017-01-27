@@ -1,0 +1,15 @@
+{
+    "name": "catalyst/servant",
+    "description": "Catalyst Servant Dependency Inhibitor Library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matthias Kaschubowski",
+            "email": "nihylum@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    }
+}
